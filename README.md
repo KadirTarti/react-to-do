@@ -11,6 +11,7 @@ A user-friendly interface is aimed using React.
 
  ![react-to-do-optimize](https://github.com/KadirTarti/KadirTarti/assets/150926891/0ac80f2b-a092-413b-99af-8de8472c0679)
 
+
 ## Project Skeleton 👷
 
 ```
@@ -48,6 +49,7 @@ React To-Do
 
 Epic User Story: Developing a To-Do List Application 
 
+
 ## User Stories:
 
 1-) Create a new task:
@@ -72,6 +74,7 @@ Build a To-Do List App using ReactJS.
 - React Bootstrap
 - Local Storage
 
+
 ### At the end of the project, we will be able to;
 
 ⭐ improve coding skills within HTML & CSS & JS & ReactJS & React-Bootstrap using Local Storage
@@ -81,6 +84,7 @@ Build a To-Do List App using ReactJS.
 
 ## Contributing & Collaborate 💪
 All contributions from different perspectives greatly enrich my projects! Whether you have new project ideas or contributions to improve my current projects, all contributions are invaluable. Feel free to open a topic or submit a pull request with your suggested changes to start a dialogue about your thoughts. Every contribution plays a vital role in my progress. so thank you for being an integral part of my community!
+
 
 
 **<p align="center"> 💻 Happy Work 💻</p>** 
