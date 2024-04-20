@@ -50,46 +50,37 @@ Epic User Story: Developing a To-Do List Application
 
 ## User Stories:
 
-8️-) Deploying a Product Listing Page
-  - Showcase a compilation of available products fetched from the Mock API
-  - Introduce options for filtering or sorting within the product list
-  - Incorporate buttons or hyperlinks for accessing detailed information or making updates to products
+1-) Create a new task:
+ - Develop a text input area for inserting fresh tasks
+ - Establish a "Submit" button to append the new task to the list
+ - Guarantee that new tasks are stored in local storage upon addition
+ - Implement functionality to display tasks from local storage upon page reload
+
+2-) Remove existing tasks:
+ - Integrate a "Remove" button for each task entry
+ - Ensure that deleted tasks are eliminated from local storage
 
 
-## Additional Requirement: ➕
+## Objective 🔍
 
-The application should have a responsive design.
-
-
-## Objective :
-
-Build a Shopping Cart App using ReactJS.
+Build a To-Do List App using ReactJS.
 
 ### At the end of the project, following topics are to be covered;
 
-- HTML, CSS, JS
+- HTML, CSS
 - ReactJS
-- React Router & Hooks
-- Mock API
+- React Bootstrap
+- Local Storage
 
 ### At the end of the project, we will be able to;
 
-⭐ improve coding skills within HTML & CSS & JS & ReactJS.
-
-⭐ Learning to fetch data from mock api and add data to api
+⭐ improve coding skills within HTML & CSS & JS & ReactJS & React-Bootstrap using Local Storage
 
 ⭐ use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 
-## Informaitonal video! ℹ️
-How to use Mock API ? -> <a href="https://www.youtube.com/watch?v=i_Gvlp83GMk" target="_blank"> Watch the video! </a>
-
-## MockApi 📦
-Go to the Mock API web page and start coding with the free API! -> <a href="https://mockapi.io/" target="_blank">MockApi</a>
-
-
-## Contributing & Collaborate :muscle:
+## Contributing & Collaborate 💪
 All contributions from different perspectives greatly enrich my projects! Whether you have new project ideas or contributions to improve my current projects, all contributions are invaluable. Feel free to open a topic or submit a pull request with your suggested changes to start a dialogue about your thoughts. Every contribution plays a vital role in my progress. so thank you for being an integral part of my community!
 
 
-**<p align="center"> 💻 Happy Coding 💻</p>** 
+**<p align="center"> 💻 Happy Work 💻</p>** 
