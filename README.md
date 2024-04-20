@@ -2,7 +2,7 @@
 # React To-Do
 [https://shopping-app-akt.netlify.app/](https://akt-react-todo.netlify.app/)
 
-## Description
+## Description 🟢
 
 Hello to everyone! This project aims to create an application where users can add new to-dos and delete these to-dos by adding date and title to their to-do lists.
 A user-friendly interface is aimed using React.
