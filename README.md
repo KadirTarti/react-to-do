@@ -1,6 +1,6 @@
 
 # React To-Do
-https://shopping-app-akt.netlify.app/
+[https://shopping-app-akt.netlify.app/](https://akt-react-todo.netlify.app/)
 
 ## Description
 
@@ -9,7 +9,7 @@ A user-friendly interface is aimed using React.
 
 ## Outcome 🎥
 
-![react-to-do-optimize](https://github.com/KadirTarti/KadirTarti/assets/150926891/0ac80f2b-a092-413b-99af-8de8472c0679)
+ ![react-to-do-optimize](https://github.com/KadirTarti/KadirTarti/assets/150926891/0ac80f2b-a092-413b-99af-8de8472c0679)
 
 ## Project Skeleton 👷
 
@@ -44,46 +44,11 @@ React To-Do
 
 
 
-Project Planning & Management
-Epic User Story: Developing a Shopping Cart Application 🎖️
+### Project Planning & Management 🗺️
+
+Epic User Story: Developing a To-Do List Application 
 
 ## User Stories:
-
-1️-) Displaying Products:
-  - Develop elements to showcase existing product
-  - Retrieve and list items from the Mock API
-  - Customize the presentation of products using CSS
-
-2-) Adding New Products 
-  - Create components enabling users to introduce new products
-  - Integrate mechanisms to store new products within the Mock API
-  - Conduct validation checks on the product addition form.
-
-3-) Managing Shopping Cart Activities
-  - Construct elements allowing users to observe their shopping carts
-  - Retrieve and exhibit products from the Mock API specifically for the shopping cart
-  - Implement functions to modify and eliminate quantities of products in the cart
-
-4-) Interface Design and Improvements
-  - Craft the holistic user interface and enhance usability.
-  - Apply necessary adjustments and advancements based on user input
-  - Ensure adaptability to mobile devices through responsive design
-
-5️-) Creating an About Section
-  - Develop and execute the arrangement for the About section
-  - Incorporate pertinent content such as personal information
-  - Stylize the About section using CSS styles
-
-6️-) Establishing the Primary Page
-  - Arrange the foundational layout for the main landing page
-  - Integrate navigation links to facilitate movement to other sections
-  - Design and introduce any supplementary functionalities on the primary page
-
-
-7️-) Enabling a New Product Entry Page
-  - Formulate a structure for users to input details of new product
-  - Implement validation measures within the new productform
-  - Enable functionality to submit data pertaining to new product
 
 8️-) Deploying a Product Listing Page
   - Showcase a compilation of available products fetched from the Mock API
