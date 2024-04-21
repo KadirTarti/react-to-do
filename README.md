@@ -1,52 +1,67 @@
 
 # Weather APP
 
-https://check-app-weather.netlify.app
+https://akt-react-todo.netlify.app/
 
 ## Description 🟢
 
-Hello everyone! The purpose of this project is to extract weather information from a weatherapi and print this information on cards with icons. When you enter the name of the city whose weather you want to query in the input field on the main screen, the weather information appears with additional information. Both English and German inquiry options are available on the page. The screen is not completely refreshed with each new query, the previous result remains on the screen. To remove the previous search result from the screen, the x button in the upper right corner of the card structure must be clicked.
+Hello everyone! The purpose of this project is to create a To-Do List via the react library. To create the list, date and content information must be entered and then the submit button must be clicked. By clicking twice on each to-do created, the to-do should be crossed out and it should be seen that it is completed. When you want to delete tasks, you can easily delete them by clicking the ix button in the upper right. Additionally, all entered tasks should be kept on localhost and the latest information should not be deleted when the page is refreshed.
 
 ## Outcome 🎥
 
-![WeatherApp](https://github.com/KadirTarti/KadirTarti/assets/150926891/b151d6da-0f53-4cb0-85f7-b4d99b784897) 
+![react-to-do-optimize](https://github.com/KadirTarti/KadirTarti/assets/150926891/0ac80f2b-a092-413b-99af-8de8472c0679) 
 
 
 ## Project Skeleton 👷
 
 ```
-React To-Do
+React To-Do(folder)
 |
-├── assets
-├── app.js
-├── axios.js
-├── index.html
-└── style.css
-
+├── public
+|     ├── index.html
+│     └── robots.txt
+├── src
+│    ├── assets
+│    ├── components
+│    │     ├── Footer.jsx
+│    │     ├── GorevEkle.jsx
+│    │     └── GorevleriGoster.jsx
+│    ├── helper
+│    │     └── Data.jsx
+│    ├── img
+│    ├── pages
+│    │     └── Home.jsx
+│    ├── App.js
+│    ├── App.css
+│    └── index.js
+├── .gitignore
+├── package.lock.json
+├── package.json
+└── README.md
 ```
 
 
 
 ### Project Planning & Management 🗺️
 
-Epic User Story: Developing a React App Application 
+Epic User Story: Developing a React To-Do App Application 
 
 
 ## User Stories:
 
-1-) As a user, I want to be able to enter the name of a city in the input field on the main screen.
-2-) As a user, I want to have the option to query weather information in both English and German languages.
-3-) As a user, I expect the weather information to be displayed on cards with corresponding icons for better visualization.
-4-) As a user, I want the previous search result to remain on the screen without refreshing completely with each new query.
-5-) As a user, I want the ability to remove the previous search result from the screen by clicking the 'x' button in the upper right corner of the card structure.
+1-) As a user, I want to be able to enter the date and content information for a new task in the To-Do List interface.
+2-) As a user, I expect a submit button to be available to add the entered task to the list.
+3-) As a user, I want the ability to mark a task as completed by clicking on it twice, visually indicating that it has been crossed out.
+4-) As a user, I want to have an option to easily delete a task by clicking the 'x' button located in the upper right corner of the task.
+5-) As a user, I expect all entered tasks to be stored locally on my machine (localhost), ensuring that the latest information is retained even after refreshing the page.
 
 ## Objective 🔍
 
-Build a Weather App using axios
+Build a To-Do App using React
 
 ### At the end of the project, we will be able to;
 
-⭐ improve coding skills within HTML & CSS & JS using axios
+⭐ improve coding skills within HTML & CSS & ReactJS
 
 ⭐ use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
