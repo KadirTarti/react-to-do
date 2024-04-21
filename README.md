@@ -1,5 +1,5 @@
 
-# Weather APP
+# React To-Do APP
 
 https://akt-react-todo.netlify.app/
 
