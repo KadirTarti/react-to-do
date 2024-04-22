@@ -50,9 +50,13 @@ Epic User Story: Developing a React To-Do App Application
 ## User Stories:
 
 1-) As a user, I want to be able to enter the date and content information for a new task in the To-Do List interface.
+
 2-) As a user, I expect a submit button to be available to add the entered task to the list.
+
 3-) As a user, I want the ability to mark a task as completed by clicking on it twice, visually indicating that it has been crossed out.
+
 4-) As a user, I want to have an option to easily delete a task by clicking the 'x' button located in the upper right corner of the task.
+
 5-) As a user, I expect all entered tasks to be stored locally on my machine (localhost), ensuring that the latest information is retained even after refreshing the page.
 
 ## Objective 🔍
