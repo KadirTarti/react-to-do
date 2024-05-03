@@ -63,7 +63,7 @@ Epic User Story: Developing a React To-Do App Application
 
 Build a To-Do App using React
 
-### At the end of the project, we will be able to;
+### This project helped me develop the following skills:
 
 ⭐ improve coding skills within HTML & CSS & ReactJS
 
@@ -75,4 +75,4 @@ All contributions from different perspectives greatly enrich my projects! Whethe
 
 
 
-**<p align="center"> 💻 Happy Work 💻</p>** 
+**<p align="center"> 💻 *Always improve yourself* 💻</p>** 
